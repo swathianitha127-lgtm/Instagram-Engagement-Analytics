@@ -12,7 +12,7 @@ Welcome to the Instagram Content & Growth Analytics Dashboard repository! This p
 
 🎛️ Campaign Tag Slicers: Interactive filters allowing users to slice data by campaign categories such as Giveaway, Launch, Promo, or None. 
 
-C:\Users\swath\Desktop\prjt folder
+"C:\Users\swath\Desktop\1\pg1.png"
 
 🎬 2. Content Performance Analysis
 👁️ Views & Engagement by Content Type: Horizontal rankings showing total views and engagement percentages for each post format.   
