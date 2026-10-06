@@ -12,7 +12,7 @@ Welcome to the Instagram Content & Growth Analytics Dashboard repository! This p
 
 🎛️ Campaign Tag Slicers: Interactive filters allowing users to slice data by campaign categories such as Giveaway, Launch, Promo, or None. 
 
-"C:\Users\swath\Desktop\prjt folder\pg1.png"
+C:\Users\swath\Desktop\prjt folder\pg1.png
 
 🎬 2. Content Performance Analysis
 👁️ Views & Engagement by Content Type: Horizontal rankings showing total views and engagement percentages for each post format.   
@@ -21,7 +21,7 @@ Welcome to the Instagram Content & Growth Analytics Dashboard repository! This p
 
 ⏰ Views by Post Hour: Line charts highlighting optimal posting hours throughout the day to maximize audience reach (peaking near 1.01M views).   
 
-"C:\Users\swath\Desktop\prjt folder\pg2.png"
+C:\Users\swath\Desktop\prjt folder\pg2.png
 
 👥 3. Audience Demographics & Behavior
 ❤️ Likes & Shares by Content Type: Detailed bar charts measuring user appreciation and virality metrics per content category.   
@@ -30,7 +30,7 @@ Welcome to the Instagram Content & Growth Analytics Dashboard repository! This p
 
 📅 Temporal Slicers: Multi-select month and content type filters for deep-dive filtering.   
 
-"C:\Users\swath\Desktop\prjt folder\pg3.png"
+C:\Users\swath\Desktop\prjt folder\pg3.png
 
 🛠️ Tech Stack & Tools Used
 Power BI: Data modeling, interactive dashboards, and custom visualizations.
